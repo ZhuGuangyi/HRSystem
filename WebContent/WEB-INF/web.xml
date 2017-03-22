@@ -11,7 +11,7 @@
   </welcome-file-list>
   <filter>
     <filter-name>encode</filter-name>
-    <filter-class>com.qingmai.filter.EncodingFilter</filter-class>
+    <filter-class>com.leon.filter.EncodingFilter</filter-class>
   </filter>
   <filter-mapping>
     <filter-name>encode</filter-name>
@@ -19,7 +19,7 @@
   </filter-mapping>
   <filter>
     <filter-name>permission</filter-name>
-    <filter-class>com.qingmai.filter.PermissionFilter</filter-class>
+    <filter-class>com.leon.filter.PermissionFilter</filter-class>
   </filter>
   <filter-mapping>
     <filter-name>permission</filter-name>
